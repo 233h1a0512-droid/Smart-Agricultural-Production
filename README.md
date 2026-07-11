@@ -127,5 +127,5 @@ Apple, Orange, Papaya, Coconut, Cotton, Jute, Coffee
 
 ## 👨‍💻 Author
 
-Sai Charan — SRM University AP  
-GitHub: [github.com/saicharan065](https://github.com/saicharan065)
+c.sravani 
+GitHub:https://github.com/233h1a0512-droid/Smart-Agricultural-Production/edit/main/README.md
